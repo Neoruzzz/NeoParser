@@ -1,0 +1,6 @@
+python-telegram-bot
+aiohttp
+aiofiles
+beautifulsoup4
+python-dotenv
+paramiko
